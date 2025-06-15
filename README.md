@@ -1,3 +1,3 @@
-#Digital Image Processing Lab
+# Digital Image Processing Lab
 
-This repo contains all codes of dip lab as part of curriculum
+This repo contains all codes of dip lab as part of curriculum.
